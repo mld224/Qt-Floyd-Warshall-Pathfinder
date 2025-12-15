@@ -42,13 +42,10 @@ L'application nécessite deux fichiers CSV structurés pour construire le graphe
 * Compilateur C++ compatible C++11 ou supérieur.
 
 ### Compilation
-1.  Clonez le dépôt :
-    ```bash
-    git clone [https://github.com/VOTRE-NOM/Qt-Floyd-Warshall-Pathfinder.git](https://github.com/VOTRE-NOM/Qt-Floyd-Warshall-Pathfinder.git)
-    ```
-2.  Ouvrez le fichier `SAE.pro` dans Qt Creator.
-3.  Compilez et lancez le projet.
-4.  Assurez-vous que les fichiers `.csv` sont bien accessibles par l'application.
+
+1.  Ouvrez le fichier `SAE.pro` dans Qt Creator.
+2.  Compilez et lancez le projet.
+3.  Assurez-vous que les fichiers `.csv` sont bien accessibles par l'application.
 
 ##  Auteur
 **Mamadou Lamine DIALLO** - Étudiant en BUT Informatique
